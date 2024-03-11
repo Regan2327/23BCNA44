@@ -1,12 +1,11 @@
 {
-  "name": "google3",
-  "projectId": "cbe0e30a-5983-4c46-a513-54ea3208b3ff",
+  "name": "google",
+  "projectId": "3c4746fc-16d7-46d4-9001-b8285042d375",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.2-preview]",
     "UiPath.Mail.Activities": "[1.22.1]",
-    "UiPath.PDF.Activities": "[3.18.0-preview]",
     "UiPath.System.Activities": "[24.2.0-preview]",
     "UiPath.Testing.Activities": "[24.2.0-preview]",
     "UiPath.UIAutomation.Activities": "[24.2.0-preview]"
@@ -51,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "a8b0185e-e2ae-47b7-b6ed-5106e76cb685",
+      "uniqueId": "098a4fe0-3659-4166-ab97-b9ec8f0e7b13",
       "input": [],
       "output": []
     }
